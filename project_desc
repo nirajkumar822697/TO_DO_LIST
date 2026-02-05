@@ -1,0 +1,35 @@
+📋 To-Do List Application (Python)
+📌 Description
+
+This is a simple To-Do List Application developed in Python.
+It is a menu-driven program that helps users manage their daily tasks easily from the command line.
+
+Users can add, view, delete, and modify tasks using simple options.
+
+🚀 Features
+
+✅ Add new tasks
+
+📄 View all tasks
+
+🗑️ Delete existing tasks
+
+✏️ Modify tasks
+
+❌ Exit the application
+
+🛠️ Technologies Used
+
+Language: Python
+
+Concepts:
+
+Loops
+
+Lists
+
+Conditional Statements
+
+User Input
+
+Menu-driven Program
